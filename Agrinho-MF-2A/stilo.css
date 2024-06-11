@@ -159,6 +159,7 @@
   .secao4__fone,
   .secao4__endereco {
     font-size: 25px;
+    text-align: center;
   }
   .secao4 {
     display: flex;
